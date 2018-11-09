@@ -1,4 +1,4 @@
 <?php
-echo "es hora de aprender";      
-    dd(time());
+echo "es hora de aprender con git";      
+    
 
