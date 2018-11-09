@@ -1,4 +1,5 @@
 <?php
-echo "es hora de aprender con git";      
+echo "es hora de aprender con git :)";
+      
     
 
